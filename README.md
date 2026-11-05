@@ -27,7 +27,7 @@ Analyzes production output and compares actual performance against planned targe
 | -------------------------- | -----: |
 | Total Production Target    |  6,250 |
 | Actual Production          |  5,966 |
-| Production Variance        |   -284 |
+| Production Variance        |    284 |
 | Target Achievement         | 95.46% |
 | Average Production per Run | 198.87 |
 
