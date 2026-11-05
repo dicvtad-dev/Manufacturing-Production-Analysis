@@ -119,6 +119,24 @@ This project helped strengthen my practical understanding of Power BI and manufa
 
 It provided an opportunity to explore how production, quality, and machine performance data can be combined to monitor operations, identify performance gaps, and support data-driven management decisions.
 
+## Dashboard Preview
+
+### 1. Production Overview
+
+![Production Overview](DASHBOARD/Production-Overview-1.png)(DASHBOARD/Production-Overview-2.png)
+### 2. Quality Analysis
+
+![Quality Analysis](DASHBOARD/Quality-Analysis.png)
+
+### 3. Machine Performance
+
+![Machine Performance](DASHBOARD/Machine-Performance.png)
+
+### 4. OEE Analysis
+
+![OEE Analysis](DASHBOARD/OEE-Analysis.png)
+
+
 ## Project Credits
 
 Completed as part of my practical learning journey with **Bright Computer Education** and **Kamlesh Vaghela**.
