@@ -123,7 +123,7 @@ It provided an opportunity to explore how production, quality, and machine perfo
 
 ### 1. Production Overview
 
-![Production Overview](DASHBOARD/Production-Overview-1.png)![](DASHBOARD/Production-Overview-2.png)
+![Production Overview](DASHBOARD/Production-Overview-01.png)![](DASHBOARD/Production-Overview-2.png)
 ### 2. Quality Analysis
 
 ![Quality Analysis](DASHBOARD/Quality-Analysis-1.png)![](DASHBOARD/Quality-Analysis-2.png)
